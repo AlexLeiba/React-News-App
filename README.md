@@ -1,15 +1,19 @@
-# Getting Started with Create React App
+The project has the following features:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Display a category of news
+Paginate news
+Display individual news
+Add/remove news to favorites
+Persist favorite news through localStorage
+Concepts
+The project covers the following concepts:
 
-## Available Scripts
+Creating reusable components
+React hooks (useState, useEffect, useReducer, useContext)
+Routing
+State management (Context API + usereducer)
+Custom hooks
+CSS Modules
 
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+bul general ion dragalina 
+22
