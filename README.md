@@ -15,5 +15,4 @@ State management (Context API + usereducer)
 Custom hooks
 CSS Modules
 
-bul general ion dragalina 
-22
+
