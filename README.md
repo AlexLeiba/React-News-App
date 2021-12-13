@@ -1,4 +1,4 @@
-The project has the following features:
+# The project has the following features:
 
 Display a category of news
 Paginate news
@@ -6,7 +6,8 @@ Display individual news
 Add/remove news to favorites
 Persist favorite news through localStorage
 Concepts
-The project covers the following concepts:
+
+# The project covers the following concepts:
 
 Creating reusable components
 React hooks (useState, useEffect, useReducer, useContext)
