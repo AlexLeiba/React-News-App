@@ -1,3 +1,5 @@
+## Demo : https://alex-news-app.netlify.app/
+
 # The project has the following features:
 
 Display a category of news
