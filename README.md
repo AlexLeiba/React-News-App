@@ -6,7 +6,6 @@
 * Paginate news
 * Display individual news
 * Add/remove news to favorites
-* Persist favorite news through localStorage
 
 # The project covers the following concepts:
 
