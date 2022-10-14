@@ -2,7 +2,7 @@
 
 # The project has the following features:
 
-* Display a category of news
+* Display a category of news.
 * Paginate news
 * Display individual news
 * Add/remove news to favorites
